@@ -1,0 +1,8 @@
+- name : "ashish"
+- empid : "123"
+
+
+# yq . input.yml
+# yq .[0] input.yml
+# yq .[1] input.yml
+# yq .[1].name input.yml

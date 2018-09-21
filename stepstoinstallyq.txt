@@ -1,0 +1,5 @@
+sudo su 
+yum install jq -y 
+yum install python-pip -y
+pip install yq
+
